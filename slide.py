@@ -1,0 +1,3 @@
+
+
+def slide(list, slice)
